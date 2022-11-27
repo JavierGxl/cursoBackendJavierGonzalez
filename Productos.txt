@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Oreos",
+    "price": 175,
+    "thumbnail": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/fotos/b/0000000000/835_1.jpg",
+    "id": 1
+  },
+  {
+    "title": "Pepas",
+    "price": 125,
+    "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/177568/7791720002872_02.jpg?v=637468576795630000",
+    "id": 2
+  }
+]
