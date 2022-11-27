@@ -10,5 +10,23 @@
     "price": 125,
     "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/177568/7791720002872_02.jpg?v=637468576795630000",
     "id": 2
+  },
+  {
+    "title": "Alfajores",
+    "price": 750,
+    "thumbnail": "https://ardiaprod.vtexassets.com/arquivos/ids/225929/Alfajores-de-Chocolate-DIA-6-Un-_1.jpg?v=637903771366630000",
+    "id": 3
+  },
+  {
+    "title": "Caramelos",
+    "price": 640,
+    "thumbnail": "https://arcorencasa.com/wp-content/uploads/2020/07/20200630-1001782.jpg",
+    "id": 4
+  },
+  {
+    "title": "Pan Dulce",
+    "price": 800,
+    "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/195276/7798141716265_02.jpg?v=637516045195370000",
+    "id": 5
   }
 ]

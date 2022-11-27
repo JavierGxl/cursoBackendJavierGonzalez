@@ -147,6 +147,14 @@ getAllProds().then(allProds =>allProds.forEach(prod => {
 
 //Declaración y funcionamiento de servidor -- Apertura
 app.get(`/productos`, (req, res)=>{
+    getAllProds().then(allProds =>{
+        if (allProds.length > prodList.length){
+            prodList = []
+            getAllProds().then(allProds =>allProds.forEach(prod => {
+                prodList.push(prod.title)
+             }))  
+        }
+    })
     res.send(prodList)
 })
 app.get(`/productoRandom`, (req, res)=>{
